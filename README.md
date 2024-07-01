@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://github.com/jamillysousaa/jamillysousaa/assets/161264590/586d0f8b-4b47-42e5-9c6c-a0efc2653c5c" width="300px" />
+<img src="https://media1.tenor.com/m/1fRqTq37xLoAAAAd/gato-programador.gif" width="300px" />
 </div>
 
  <div>
