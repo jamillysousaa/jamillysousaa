@@ -1,7 +1,9 @@
 ## Desenvolvo café e bebo códigos, seja bem-vindo! <3
 
-![download](https://github.com/jamillysousaa/jamillysousaa/assets/161264590/586d0f8b-4b47-42e5-9c6c-a0efc2653c5c)
 
+<div align="center">
+<img src="https://github.com/jamillysousaa/jamillysousaa/assets/161264590/586d0f8b-4b47-42e5-9c6c-a0efc2653c5c" width="300px" />
+</div>
 
  <div>
    <a href="https://github.com/jamillysousaa">
