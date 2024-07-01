@@ -1,7 +1,7 @@
 ## Desenvolvo café e bebo códigos, seja bem-vindo! <3
-<div>
- <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgato-programador-gif-15417064310555002042&psig=AOvVaw2vhewSDsMYNEQFo1QwGa5s&ust=1719881037024000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDtiqTOhIcDFQAAAAAdAAAAABAE"/>
-</div>
+
+![download](https://github.com/jamillysousaa/jamillysousaa/assets/161264590/586d0f8b-4b47-42e5-9c6c-a0efc2653c5c)
+
 
  <div>
    <a href="https://github.com/jamillysousaa">
