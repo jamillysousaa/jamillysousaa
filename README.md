@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil😁
+## Desenvolvo café e bebo códigos, seja bem-vindo! <3
 
  <div>
    <a href="https://github.com/jamillysousaa">
