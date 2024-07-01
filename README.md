@@ -1,6 +1,6 @@
 ## Desenvolvo café e bebo códigos, seja bem-vindo! <3
 <div>
- <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgato-programador-gif-15417064310555002042&psig=AOvVaw2vhewSDsMYNEQFo1QwGa5s&ust=1719881037024000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDtiqTOhIcDFQAAAAAdAAAAABAE"
+ <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgato-programador-gif-15417064310555002042&psig=AOvVaw2vhewSDsMYNEQFo1QwGa5s&ust=1719881037024000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDtiqTOhIcDFQAAAAAdAAAAABAE"/>
 </div>
 
  <div>
