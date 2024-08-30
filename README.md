@@ -1,4 +1,4 @@
-## Desenvolvo café e bebo códigos, seja bem-vindo! <3
+## Desenvolvo vinhos e bebo códigos, seja bem-vindo! <3
 
 
 <div align="center">
